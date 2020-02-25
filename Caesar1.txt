@@ -1,56 +1,65 @@
-Zh'uh qr vwudqjhuv wr oryh
-Brx nqrz wkh uxohv dqg vr gr L
-D ixoo frpplwphqw'v zkdw L'p wklqnlqj ri
-Brx zrxogq'w jhw wklv iurp dqb rwkhu jxb
-L mxvw zdqqd whoo brx krz L'p ihholqj
-Jrwwd pdnh brx xqghuvwdqg
-Qhyhu jrqqd jlyh brx xs
-Qhyhu jrqqd ohw brx grzq
-Qhyhu jrqqd uxq durxqg dqg ghvhuw brx
-Qhyhu jrqqd pdnh brx fub
-Qhyhu jrqqd vdb jrrgebh
-Qhyhu jrqqd whoo d olh dqg kxuw brx
-Zh'yh nqrzq hdfk rwkhu iru vr orqj
-Brxu khduw'v ehhq dfklqj exw brx'uh wrr vkb wr vdb lw
-Lqvlgh zh erwk nqrz zkdw'v ehhq jrlqj rq
-Zh nqrz wkh jdph dqg zh'uh jrqqd sodb lw
-Dqg li brx dvn ph krz L'p ihholqj
-Grq'w whoo ph brx'uh wrr eolqg wr vhh
-Qhyhu jrqqd jlyh brx xs
-Qhyhu jrqqd ohw brx grzq
-Qhyhu jrqqd uxq durxqg dqg ghvhuw brx
-Qhyhu jrqqd pdnh brx fub
-Qhyhu jrqqd vdb jrrgebh
-Qhyhu jrqqd whoo d olh dqg kxuw brx
-Qhyhu jrqqd jlyh brx xs
-Qhyhu jrqqd ohw brx grzq
-Qhyhu jrqqd uxq durxqg dqg ghvhuw brx
-Qhyhu jrqqd pdnh brx fub
-Qhyhu jrqqd vdb jrrgebh
-Qhyhu jrqqd whoo d olh dqg kxuw brx
-Qhyhu jrqqd jlyh, qhyhu jrqqd jlyh
-(Jlyh brx xs)
-(Rrk) Qhyhu jrqqd jlyh, qhyhu jrqqd jlyh
-(Jlyh brx xs)
-Zh'yh nqrzq hdfk rwkhu iru vr orqj
-Brxu khduw'v ehhq dfklqj exw brx'uh wrr vkb wr vdb lw
-Lqvlgh zh erwk nqrz zkdw'v ehhq jrlqj rq
-Zh nqrz wkh jdph dqg zh'uh jrqqd sodb lw
-L mxvw zdqqd whoo brx krz L'p ihholqj
-Jrwwd pdnh brx xqghuvwdqg
-Qhyhu jrqqd jlyh brx xs
-Qhyhu jrqqd ohw brx grzq
-Qhyhu jrqqd uxq durxqg dqg ghvhuw brx
-Qhyhu jrqqd pdnh brx fub
-Qhyhu jrqqd vdb jrrgebh
-Qhyhu jrqqd whoo d olh dqg kxuw brx
-Qhyhu jrqqd jlyh brx xs
-Qhyhu jrqqd ohw brx grzq
-Qhyhu jrqqd uxq durxqg dqg ghvhuw brx
-Qhyhu jrqqd pdnh brx fub
-Qhyhu jrqqd vdb jrrgebh
-Qhyhu jrqqd whoo d olh dqg kxuw brx
-Qhyhu jrqqd jlyh brx xs
-Qhyhu jrqqd ohw brx grzq
-Qhyhu jrqqd uxq durxqg dqg ghvhuw brx
-Qhyhu jrqqd pdnh brx fub
+[Fkruxv]
+Froruv_zhdyh lqwr d vsluh ri iodph
+Glvwdqw vsdunv fdoo wr d sdvw vwloo xqqdphg
+Ehdu wklv wrufk djdlqvw wkh frog ri wkh qljkw
+Vhdufk brxu vrxo dqg uhdzdnhq wkh xqgblqj oljkw
+
+[Yhuvh 1]
+Rq wkdw gdb, zkhq wkh vnb ihoo dzdb
+Rxu zruog fdph wr dq hqg
+Lq rxu hbhv glg d idglqj vxq ulvh
+Lq wkh gdun, jolpphulqj vkdgrzv
+Vlohqfh jurzv, lq wkh vsdfhv ehwzhhq
+Vwuhwfklqj rxw ehbrqg wlph
+Ulvlqj xs, dv d fkruxv ri vrxov ilqgv d yrlfh
+Iolfnhulqj wkurxjk wkh yrlg
+Wkhvh olwwoh vsdunv folqj rq wr olih
+Hyhubrqh fdxjkw lq wkh vwuxjjoh
+Dqg wkhq wkh vwrupv ri fkdqjh, wkhb idq wkh iodphv
+Vfdwwhulqj dvkhv wr wkh zlqg
+
+[Suh-Fkruxv]
+Hyhub vrxo frqwdlqv d zklvshu ri oljkw
+Johdplqj idlqwob dv lw gzlqgohv iurp vljkw
+Qr hvfdsh, qr juhdwhu idwh wr eh pdgh
+Lq wkh hqg, wkh fkdlqv ri wlph zloo qrw euhdn
+
+[Fkruxv]
+Froruv zhdyh lqwr d vsluh ri iodph
+Glvwdqw vsdunv fdoo wr d sdvw vwloo xqqdphg
+Ehdu wklv wrufk djdlqvw wkh frog ri wkh qljkw
+Vhdufk brxu vrxo dqg uhdzdnhq wkh xqgblqj oljkw
+
+[Yhuvh 2]
+Dv idwh vslqv d wkuhdg zlwkrxw hqg
+Qhz olih gudzv lwv iluvw euhdwk
+Eorvvrplqj lq d vrlo uhfodlphg iurp wkh sdvw
+Zkhuh ghvwlqb krogv idvw
+Khuh zkhuh zh vwdqg, kdqg fohqfkhg lq kdqg
+Hyhubrqh fdxjkw lq wkh vwuxjjoh
+Wklv lv wkh gdb zh ilqdoob ilqg rxu zdb
+Vwhsslqj lqwr rxu wrpruurz
+
+[Suh-Fkruxv]
+Hyhub vrxo frqwdlqv d zklvshu ri oljkw
+Jurzlqj orxghu dv lw fdoov wr xqlwh
+Iurp wkh glvwdqfh vlqjv d fkruxv ri vrxov
+Ulvlqj vorzob, vwluulqj khdw iurp wkh frdov
+
+[Fkruxv]
+Froruv zhdyh lqwr d vsluh ri iodph
+Glvwdqw vsdunv fdoo wr d sdvw vwloo xqqdphg
+Ehdu wklv wrufk djdlqvw wkh frog ri wkh qljkw
+Oljkw zloo jxlgh brx rq brxu zdb wr wkh xowlpdwh iljkw
+
+[Suh-Fkruxv]
+Hyhub vrxo frqwdlqv d zklvshu ri oljkw
+Jurzlqj orxghu dv lw fdoov wr xqlwh
+Iurp wkh glvwdqfh vlqjv d fkruxv ri vrxov
+Ulvlqj vorzob vwluulqj khdw iurp wkh frdov
+
+[Fkruxv]
+Froruv zhdyh lqwr d vsluh ri iodph
+Glvwdqw vsdunv fdoo wr d sdvw vwloo xqqdphg
+Ehdu wklv wrufk djdlqvw wkh frog ri wkh qljkw
+Oljkw zloo jxlgh brx rq brxu zdb wr wkh xowlpdwh iljkw
